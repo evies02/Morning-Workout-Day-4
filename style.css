@@ -1,0 +1,16 @@
+  nav a {
+      color: crimson;
+  }
+
+  #about blockquote {
+    background-color: #eaeaea;
+  }
+
+  #users span{
+    font-weight: 700;
+  }
+
+  #creators link {
+    font-family: Lato;
+    text-decoration: unonee;
+  }
